@@ -1,8 +1,35 @@
-# React + Vite
+## Installation
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Follow these steps to get a copy of the project up and running on your local machine for development and testing purposes.
 
-Currently, two official plugins are available:
+### 1. Clone the Repository
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+First, clone the repository to your local machine using Git:
+
+```bash
+git clone https://github.com/Shiv1002/GoodGame.git
+```
+
+### 2. Navigate to the Project Directory
+
+Change your directory to the project folder:
+
+```bash
+cd GoodGame
+```
+
+### 3. Install Dependencies
+
+Install the necessary dependencies using npm:
+
+```bash
+npm install
+```
+
+### 4. Usage
+
+To start the application, run the following command:
+
+```bash
+npm run dev
+```
